@@ -8,7 +8,7 @@ a.button {
     appearance: button;
 
     text-decoration: none;
-    color: #3a29a8;
+    color: crimson;
 }
 *{
     margin: 0;
@@ -97,7 +97,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #3a29a8;
+    background: crimson;
 }
 .navbar .max-width{
     display: flex;
@@ -244,7 +244,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #3a29a8;
+    color: crimson;
 }
 .about .about-content .right p{
     text-align: justify;
